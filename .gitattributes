@@ -1,0 +1,2 @@
+*.dtm filter=lfs diff=lfs merge=lfs -text
+*.DTM filter=lfs diff=lfs merge=lfs -text
